@@ -1,0 +1,13 @@
+venv
+__pycache__/
+.env
+.DS_Store
+.vscode
+.git
+.vscode
+.DS_Store
+catch_cap.egg-info/
+dist/
+pyproject.toml
+CLAUDE.md
+.claude/
